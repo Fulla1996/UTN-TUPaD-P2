@@ -1,2 +1,9 @@
-# UTN-TUPaD-P2
-Repositorio para entrega de los Trabajos correspondientes a Programación 2 de la Tecnicatura Universitaria de Programación de la UTN
+💻 Programación 2
+Tecnicatura Universitaria en Programación
+📍 Universidad Tecnológica Nacional
+
+✨ Estudiante
+Nombre: Fulladoza, Pablo Facundo
+Comisión: Ag25-2C 14
+📂 Descripción del Repositorio
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 2.
