@@ -8,9 +8,7 @@ public class CostoEnvio {
         else 
             return peso * 10;
     }
-    /*Para poder mantener la firma indicada en el material, se utiliza enviando el Costo calculado
-    Si quisieramos invocar la otra función deberíamos incluir el parámetro de peso
-    Se deja anidada la función dentro del main para mantener la "composición de funciones"*/
+
     static double calcularTotalCompra(double precioProducto, double costoEnvio){
         return precioProducto + costoEnvio;
     }
